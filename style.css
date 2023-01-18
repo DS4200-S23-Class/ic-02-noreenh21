@@ -5,8 +5,16 @@ body{
 .container{
     border-style: solid;
     border-color: black;
+    border-width: 5px;
 }
 
 h1{
     text-align:center;
+}
+h2{
+    text-align:center;
+}
+
+#p1{
+    color: rgb(5, 72, 5)
 }
